@@ -62,7 +62,9 @@ pip install streamlit pandas
 ```bash 
 streamlit run app.py
 ```
-This will start the Streamlit server, and you can access the app at [local host](http://localhost:8501)
+This will start the Streamlit server. 
+
+ - **App** - You can access the app at [app](http://localhost:8501)
 
 ### Code Structure:
 - app.py: Handles user interface, data loading, and recommendation logic.
