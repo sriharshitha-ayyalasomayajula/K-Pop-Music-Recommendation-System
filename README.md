@@ -81,11 +81,18 @@ This will start the Streamlit server, and you can access the app at [local host]
 - Get Recommendations: Click to generate personalized recommendations.
 
 Below are some screenshots of the app GUI - 
+- **Home Page**
 ![K-POP Recommendation System Homepage](images/homePage.png)
+
 ![Top 10 Tracks](images/top10tracks.png)
+
 ![Top 10 Artists](images/top10artists.png)
+
+- **Get Recommendations Page** 
 ![K-POP Recommendation System Recommendation Page](images/recommendation_1.png)
+
 ![Get Recommendation based on Chosen Tracks](images/recommendation_2.png)
+
 ![Get Recommendation based on Chosen Genre](images/recommendation_3.png)
 
 
