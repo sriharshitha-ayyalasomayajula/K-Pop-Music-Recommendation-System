@@ -64,7 +64,7 @@ streamlit run app.py
 ```
 This will start the Streamlit server. 
 
- - **App** - You can access the app at [app](http://localhost:8501)
+ - **App** - You can access the app here:  [app](http://localhost:8501)
 
 ### Code Structure:
 - app.py: Handles user interface, data loading, and recommendation logic.
